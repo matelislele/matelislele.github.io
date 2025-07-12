@@ -1,6 +1,6 @@
-##Terrible Port Scanner
+## Terrible Port Scanner
 
-##About
+## About
 Padariau port scanneri pythone. 
 
 Čia mano paprastas portų skeneris, parašytas su Python. Jis tikrina, ar tam tikri prievadai (nuo 50 iki 84) yra atviri pasirinktame IP adrese.
@@ -12,17 +12,19 @@ Programa paleidžiama per terminalą, įvedus IP adresą kaip argumentą. Ji tad
 - Jei įvedi blogą adresą – išmeta klaidą
 - Jei paspaudi `Ctrl+C` – gražiai užsidaro
 
-##Kaip paleisti
+## Kaip paleisti
 
 ```bash
 python3 port_scanner.py <IP_adresas>
 ```
 
-##Reflection
+## Reflection
 Manau man sekesi gerai, zinau kad jis gaidys, bet svarbu kad veikia.
 
 Sunkumas - 4/10
+
 Panaudojimas - 6/10
+
 Kokybe - 3/10
 
 
